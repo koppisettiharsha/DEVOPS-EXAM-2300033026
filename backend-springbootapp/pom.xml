@@ -62,9 +62,10 @@
 			<scope>test</scope>
 		</dependency>
 	</dependencies>
-	<finalName>springbootapp</finalName>
+	
 
 	<build>
+	  <finalName>productapp</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
